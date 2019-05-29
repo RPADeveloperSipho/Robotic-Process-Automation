@@ -16,5 +16,5 @@ Read each node and store the node values in respective variables in AAE Client.
   - Session data - saves the session data to a variable
   -Execute XPath Function - results are stored in a variable
   
-  Information from the notes
+
   
