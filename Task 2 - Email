@@ -1,2 +1,9 @@
 # Robotic-Process-Automation
 RPA is one of the newest tech in the world. I have created this repository for all my assignments that am working on. 
+Send Email Command
+
+-With this commad we can send multiple emails, attachments, format the message in HTML
+-To send the email the are few settings thta you have to check before you do so
+  - The settings include *Host Name* (enables uses to send email from AAE)
+  - Port - it defines TCP/IP port that AAE uses to send email
+ 
